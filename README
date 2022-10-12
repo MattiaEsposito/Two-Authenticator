@@ -1,0 +1,11 @@
+Hi everyone 
+
+This project is a rappresentation how to works Two Factor Authentication, of course it isn't integrate with a real application or system. 
+
+It works with google authenticator and Postman, generate a "token" and an "ID" in the path localhost:5000/api/register, 
+
+In the path localhost:5000/api/verify - verify if the token is correct 
+
+In the path localhost:5000/api/validate - validate the token 
+
+Thanks for watching code
